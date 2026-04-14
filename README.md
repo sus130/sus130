@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&speed=80&pause=500&color=0EA5E9&center=true&vCenter=true&width=760&lines=Full-stack+developer+in+progress;AI+%2B+Web+%2B+DevOps+enthusiast;Always+learning%2C+always+shipping&repeat=false" alt="Animated typing intro" />
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&speed=80&pause=500&color=0EA5E9&center=true&vCenter=true&width=760&lines=Full-stack+developer+in+progress;AI+%2B+Web+%2B+DevOps+enthusiast;Always+learning%2C+always+shipping&repeat=true" alt="Animated typing intro" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&speed=80&pause=400&color=8B5CF6&center=true&vCenter=true&width=400&lines=Code+.+Build+.+Repeat&repeat=false" alt="typing animation" />
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&speed=80&pause=400&color=8B5CF6&center=true&vCenter=true&width=400&lines=Code+.+Build+.+Repeat&repeat=true" alt="typing animation" />
 </p>
 
 <p align="center">
