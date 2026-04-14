@@ -128,7 +128,7 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/sus130/sus130/output/github-contribution-grid-snake.svg?v=2" alt="Contribution snake animation" />
+	<img src="https://raw.githubusercontent.com/sus130/sus130/output/github-contribution-grid-snake-dark.svg?v=3" alt="Contribution snake animation" />
 </p>
 
 <p align="center">
