@@ -1,15 +1,17 @@
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:8b5cf6,50:a855f7,100:8b5cf6&text=Welcome%20to%20my%20GitHub%20Profile&fontColor=ffffff&fontSize=38&animation=fadeIn&fontAlignY=38" alt="header" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:8b5cf6,50:a855f7,100:8b5cf6&text=Welcome%20to%20my%20GitHub%20Profile&font=Orbitron&fontColor=ffffff&fontSize=38&animation=fadeIn&fontAlignY=38" alt="header" />
 </p>
 
-<h1 align="center">Hi, I'm Susmit 👋</h1>
+<p align="center">
+	<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&speed=80&pause=500&color=FFFFFF&center=true&vCenter=true&width=520&height=60&lines=Hi%2C+I%27m+Susmit+%F0%9F%91%8B&repeat=false" alt="Hi, I'm Susmit" />
+</p>
 
 <p align="center">
 	Building cool things with clean code, curiosity, and caffeine.
 </p>
 
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=0EA5E9&center=true&vCenter=true&width=760&lines=Full-stack+developer+in+progress;AI+%2B+Web+%2B+DevOps+enthusiast;Always+learning%2C+always+shipping" alt="Animated typing intro" />
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&speed=80&pause=500&color=0EA5E9&center=true&vCenter=true&width=760&lines=Full-stack+developer+in+progress;AI+%2B+Web+%2B+DevOps+enthusiast;Always+learning%2C+always+shipping&repeat=false" alt="Animated typing intro" />
 </p>
 
 <p align="center">
@@ -17,7 +19,7 @@
 </p>
 
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=400&lines=Code+.+Build+.+Repeat" alt="typing animation" />
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&speed=80&pause=400&color=8B5CF6&center=true&vCenter=true&width=400&lines=Code+.+Build+.+Repeat&repeat=false" alt="typing animation" />
 </p>
 
 <p align="center">
@@ -31,7 +33,7 @@
 </p>
 
 <p align="left">
-	<img src="https://capsule-render.vercel.app/api?type=soft&height=42&color=0:8b5cf6,100:a855f7&text=About%20Me&fontColor=ffffff&fontSize=20&animation=blink&fontAlignY=56" alt="animated about header" />
+	<img src="https://capsule-render.vercel.app/api?type=soft&height=42&color=0:8b5cf6,100:a855f7&text=About%20Me&fontColor=ffffff&fontSize=20&animation=fadeIn&fontAlignY=56" alt="animated about header" />
 </p>
 
 - 💻 I enjoy turning ideas into practical, user-friendly products.
@@ -44,7 +46,7 @@
 </p>
 
 <p align="left">
-	<img src="https://capsule-render.vercel.app/api?type=soft&height=42&color=0:8b5cf6,100:a855f7&text=Skills&fontColor=ffffff&fontSize=20&animation=blink&fontAlignY=56" alt="animated skills header" />
+	<img src="https://capsule-render.vercel.app/api?type=soft&height=42&color=0:8b5cf6,100:a855f7&text=Skills&fontColor=ffffff&fontSize=20&animation=fadeIn&fontAlignY=56" alt="animated skills header" />
 </p>
 
 <p align="center">
@@ -91,7 +93,7 @@
 </p>
 
 <p align="left">
-	<img src="https://capsule-render.vercel.app/api?type=soft&height=42&color=0:8b5cf6,100:a855f7&text=Current%20Focus&fontColor=ffffff&fontSize=20&animation=blink&fontAlignY=56" alt="animated current focus header" />
+	<img src="https://capsule-render.vercel.app/api?type=soft&height=42&color=0:8b5cf6,100:a855f7&text=Current%20Focus&fontColor=ffffff&fontSize=20&animation=fadeIn&fontAlignY=56" alt="animated current focus header" />
 </p>
 
 - Building meaningful personal projects
@@ -103,7 +105,7 @@
 </p>
 
 <p align="left">
-	<img src="https://capsule-render.vercel.app/api?type=soft&height=42&color=0:8b5cf6,100:a855f7&text=GitHub%20Stats&fontColor=ffffff&fontSize=20&animation=blink&fontAlignY=56" alt="animated stats header" />
+	<img src="https://capsule-render.vercel.app/api?type=soft&height=42&color=0:8b5cf6,100:a855f7&text=GitHub%20Stats&fontColor=ffffff&fontSize=20&animation=fadeIn&fontAlignY=56" alt="animated stats header" />
 </p>
 
 <p align="center">
@@ -124,11 +126,11 @@
 </p>
 
 <p align="left">
-	<img src="https://capsule-render.vercel.app/api?type=soft&height=42&color=0:8b5cf6,100:a855f7&text=Contribution%20Snake&fontColor=ffffff&fontSize=20&animation=blink&fontAlignY=56" alt="animated contribution snake header" />
+	<img src="https://capsule-render.vercel.app/api?type=soft&height=42&color=0:8b5cf6,100:a855f7&text=Contribution%20Snake&fontColor=ffffff&fontSize=20&animation=fadeIn&fontAlignY=56" alt="animated contribution snake header" />
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/sus130/sus130/output/github-contribution-grid-snake-dark.svg?v=3" alt="Contribution snake animation" />
+	<img src="https://raw.githubusercontent.com/sus130/sus130/output/github-contribution-grid-snake.svg?v=2" alt="Contribution snake animation" />
 </p>
 
 <p align="center">
@@ -144,7 +146,7 @@
 </p>
 
 <p align="left">
-	<img src="https://capsule-render.vercel.app/api?type=soft&height=42&color=0:8b5cf6,100:a855f7&text=Connect%20With%20Me&fontColor=ffffff&fontSize=20&animation=blink&fontAlignY=56" alt="animated connect header" />
+	<img src="https://capsule-render.vercel.app/api?type=soft&height=42&color=0:8b5cf6,100:a855f7&text=Connect%20With%20Me&fontColor=ffffff&fontSize=20&animation=fadeIn&fontAlignY=56" alt="animated connect header" />
 </p>
 
 <p>
